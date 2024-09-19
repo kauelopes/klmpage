@@ -1,4 +1,4 @@
-baseURL = "klmconsulting.com.br"
+baseURL = "https://www.klmconsulting.com.br"
 languageCode = "en"
 title = "KLM Consulting"
 theme = "hugo-initio"
